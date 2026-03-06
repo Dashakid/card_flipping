@@ -45,8 +45,8 @@ if 'board' not in st.session_state:
     
     high = [
         "Private live", "Tits flash + play", "Custom pic", "Lush control", 
-        "Solo suki choice", "Name on body", "Pussy Flash", "Username Change", 
-        "Wet Check + Taste", "Asshole flash", "High Value Spin", "Nipple clamps"
+        "Solo suki choice", "Name on body", "Pussy Flash", 
+        "Wet Check + Taste", "Asshole flash", "High Value Spin",
     ]
     
     mid_low = [
