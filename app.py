@@ -45,7 +45,7 @@ if 'board' not in st.session_state:
     
     high = [
         "Private live", "Tits flash + play", "Custom pic", "Lush control", 
-        "Solo suki choice", "Name on body", "Pussy Flash", 
+        "Solo Desi's choice", "Name on body", "Pussy Flash", 
         "Wet Check + Taste", "Asshole flash", "High Value Spin",
     ]
     
@@ -53,7 +53,7 @@ if 'board' not in st.session_state:
         "Booty bundle", "Lingerie bundle", "Dirty Talk (kink)", "Outfit change", 
         "Camel toe", "15 min sexting", "Toy tour", "7 Raffle tickets", 
         "Red ass spanks", "JOI LIVE", "Lick dildo + dirty talk", "Lingerie vid",
-        "Nude pics Suki choice", "Blowjob", "Spit on titties + Shake", "Vibrator", 
+        "Nude pics Desi's choice", "Blowjob", "Spit on titties + Shake", "Vibrator", 
         "Rub pussy", "Twerk on dildo", "Custom vm (2 min)", "Titty bundle", 
         "Twerking video", "Shower video", "Moan name + Vibe", "Cum countdown"
     ]
